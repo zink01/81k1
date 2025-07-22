@@ -1,0 +1,27 @@
+{
+  "slides": [
+    {
+      "main_image": "https://link-to-main-image1.jpg",
+      "subs": [
+        {
+          "image": "https://link-sub1.jpg",
+          "unit": "unit1"
+        },
+        {
+          "image": "https://link-sub2.jpg",
+          "unit": "unit2"
+        }
+      ]
+    },
+    {
+      "main_image": "https://link-to-main-image2.jpg",
+      "subs": [
+        {
+          "image": "https://link-sub3.jpg",
+          "unit": "unit3"
+        }
+      ]
+    }
+    // tổng cộng 6 slide chính, mỗi cái có 0-20 ảnh phụ
+  ]
+}
