@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Unit 1 - Vocabulary</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    .word { margin-bottom: 20px; border: 1px solid #ccc; padding: 10px; border-radius: 8px; }
+    .word img { max-width: 100px; vertical-align: middle; }
+    .word span { font-size: 20px; margin-left: 10px; vertical-align: middle; }
+    .speak-btn {
+      margin-left: 10px;
+      padding: 4px 10px;
+      background: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h2>📚 Vocabulary: Unit 1</h2>
+
+  <div class="word">
+    <img src="https://yourcdn.com/apple.png" alt="Apple">
+    <span>Apple</span>
+    <button class="speak-btn" onclick="startSpeech('Apple')">🎤</button>
+  </div>
+
+  <div class="word">
+    <img src="https://yourcdn.com/banana.png" alt="Banana">
+    <span>Banana</span>
+    <button class="speak-btn" onclick="startSpeech('Banana')">🎤</button>
+  </div>
+
+  <script>
+    function startSpeech(word) {
+      // Gọi app ZSpeech bằng giao thức tùy chỉnh (nếu có)
+      location.href = "zspeech://speak?text=" + encodeURIComponent(word);
+    }
+  </script>
+</body>
+</html>
