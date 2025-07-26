@@ -1,12 +1,4 @@
 {
-  "pages": [
-    {
-      "type": "text",
-      "content": "Welcome to Unit 2!"
-    },
-    {
-      "type": "image",
-      "content": "https://example.com/image1.png"
-    }
-  ]
+  "vocal": "Hello from unit 1 - page 1 vocal!",
+  "song": "Content for page 2 of uni song"
 }
