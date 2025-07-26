@@ -1,12 +1,10 @@
 {
   "unit1": {
-    "vocabulary": "Apple, Banana, Cat, Dog",
-    "song": "https://songlink.com/unit1.mp3",
-    "image": "https://link.com/image1.jpg"
+    "vocabulary": "Hello, Goodbye",
+    "song": "https://example.com/song1.mp3"
   },
   "unit2": {
-    "vocabulary": "Elephant, Frog, Giraffe",
-    "song": "https://songlink.com/unit2.mp3",
-    "image": "https://link.com/image2.jpg"
+    "vocabulary": "Apple, Banana",
+    "song": "https://example.com/song2.mp3"
   }
 }
