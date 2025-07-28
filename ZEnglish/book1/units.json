@@ -1,5 +1,12 @@
-{
-  "book1": ["Book1 - Unit 1", "Book1 - Unit 2", "Book1 - Unit 3"],
-  "book2": ["Book2 - Unit 1", "Book2 - Unit 2", "Book2 - Unit 3"],
-  "book3": ["Book3 - Unit 1", "Book3 - Unit 2"]
-}
+[
+  {
+    "unit": "Unit 1",
+    "vocab": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/vocal.html",
+    "song": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/song.html"
+  },
+  {
+    "unit": "Unit 2",
+    "vocab": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit2/vocal.html",
+    "song": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit2/song.html"
+  }
+]
