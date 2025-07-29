@@ -2,23 +2,127 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Vocabulary - Unit 1</title>
+  <title>Vocabulary Game</title>
   <style>
-    body { font-family: sans-serif; padding: 20px; background: #fdf9f4; }
-    h2 { color: #e67e22; }
-    ul { list-style-type: none; padding-left: 0; }
-    li { margin: 10px 0; padding: 10px; background: #fffbe7; border-left: 5px solid #ffa502; box-shadow: 1px 1px 4px #ccc; }
-    .word { font-weight: bold; font-size: 18px; }
-    .phonetic { color: #555; font-style: italic; margin-left: 10px; }
+    body { font-family: sans-serif; margin: 10px; background: #f5f5f5; }
+    h2 { text-align: center; }
+    .container { display: flex; justify-content: space-between; margin: 10px; }
+    .column { flex: 1; display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; padding: 10px; }
+    .column img { width: 100px; height: 100px; object-fit: contain; border: 2px solid transparent; }
+    .word { background: white; padding: 10px; text-align: center; border: 1px solid #ccc; cursor: move; }
+    .footer { text-align: center; margin-top: 20px; }
+    .drop-target { border: 2px dashed #ccc; min-height: 100px; display: flex; align-items: center; justify-content: center; }
+    .correct { border-color: green; }
+    .wrong { border-color: red; }
   </style>
 </head>
 <body>
-  <h2>Vocabulary - Unit 1</h2>
-  <ul>
-    <li><span class="word">Apple</span> 🍎 <span class="phonetic">/ˈæp.əl/</span></li>
-    <li><span class="word">Ball</span> ⚽ <span class="phonetic">/bɔːl/</span></li>
-    <li><span class="word">Cat</span> 🐱 <span class="phonetic">/kæt/</span></li>
-    <li><span class="word">Dog</span> 🐶 <span class="phonetic">/dɔɡ/</span></li>
-  </ul>
+
+  <h2>🎮 Vocabulary Matching Game</h2>
+  <div class="container">
+    <div class="column" id="words"></div>
+    <div class="column" id="images"></div>
+  </div>
+
+  <div class="footer">
+    <button onclick="checkAnswers()">✅ Xác nhận</button>
+    <p id="result"></p>
+  </div>
+
+  <script>
+    let data = [];
+    let answers = {};
+    let tries = 0;
+
+    async function loadData() {
+      const response = await fetch('vocal.txt');
+      const text = await response.text();
+      const lines = text.trim().split('\n');
+
+      lines.forEach((line, i) => {
+        const [word, imageUrlRaw] = line.split(',');
+        const wordClean = word.trim();
+        const imageUrl = imageUrlRaw.trim().replace(/^"|"$/g, '');
+
+        data.push({ word: wordClean, image: imageUrl });
+
+        // Add word div
+        const wordDiv = document.createElement('div');
+        wordDiv.className = 'word';
+        wordDiv.id = 'word_' + i;
+        wordDiv.draggable = true;
+        wordDiv.textContent = wordClean;
+        wordDiv.ondragstart = drag;
+        document.getElementById('words').appendChild(wordDiv);
+
+        // Add image drop zone
+        const imgContainer = document.createElement('div');
+        imgContainer.className = 'drop-target';
+        imgContainer.id = 'img_' + i;
+        imgContainer.ondrop = drop;
+        imgContainer.ondragover = allowDrop;
+
+        const img = document.createElement('img');
+        img.src = imageUrl;
+        imgContainer.appendChild(img);
+        document.getElementById('images').appendChild(imgContainer);
+      });
+    }
+
+    function allowDrop(ev) {
+      ev.preventDefault();
+    }
+
+    function drag(ev) {
+      ev.dataTransfer.setData("text", ev.target.id);
+    }
+
+    function drop(ev) {
+      ev.preventDefault();
+      const wordId = ev.dataTransfer.getData("text");
+      const wordElem = document.getElementById(wordId);
+      ev.target.innerHTML = ""; // Remove previous content
+      ev.target.appendChild(wordElem);
+      const imgId = ev.target.id.split('_')[1];
+      answers[imgId] = wordElem.textContent;
+    }
+
+    function checkAnswers() {
+      tries++;
+      let correct = 0;
+
+      data.forEach((item, i) => {
+        const drop = document.getElementById('img_' + i);
+        const droppedWord = answers[i];
+        if (droppedWord === item.word) {
+          drop.classList.add('correct');
+          drop.classList.remove('wrong');
+          correct++;
+        } else {
+          drop.classList.add('wrong');
+          drop.classList.remove('correct');
+        }
+      });
+
+      const result = document.getElementById('result');
+      if (correct === data.length) {
+        result.innerHTML = `🎉 Hoàn thành xuất sắc!`;
+        speak("Great job!");
+      } else {
+        result.innerHTML = `👍 Đúng ${correct}/${data.length}. Hãy thử lại!`;
+        if (tries === 1) speak("Almost! Try again!");
+        else if (tries >= 2) speak("Keep going! You can do it!");
+      }
+    }
+
+    function speak(text) {
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = 'en-US';
+      speechSynthesis.speak(utterance);
+    }
+
+    loadData();
+  </script>
+
 </body>
 </html>
