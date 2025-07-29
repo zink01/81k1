@@ -1,0 +1,21 @@
+{
+  "book1": {
+    "unit1": {
+      "title": "Hello!",
+      "words": ["Hi", "Hello", "Goodbye"],
+      "audio": ["hi.mp3", "hello.mp3", "goodbye.mp3"]
+    },
+    "unit2": {
+      "title": "Colors",
+      "words": ["Red", "Blue", "Green"],
+      "audio": ["red.mp3", "blue.mp3", "green.mp3"]
+    }
+  },
+  "book2": {
+    "unit1": {
+      "title": "Animals",
+      "words": ["Cat", "Dog", "Fish"],
+      "audio": ["cat.mp3", "dog.mp3", "fish.mp3"]
+    }
+  }
+}
