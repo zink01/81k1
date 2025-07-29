@@ -1,4 +1,4 @@
-book,img1
-crayon,img2
-eraser,img3
-ruler,img4
+book
+crayon
+eraser
+ruler
