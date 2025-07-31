@@ -1,0 +1,3 @@
+thienan@zenglish.com|Xin chào ABC!
+xyz@gmail.com|Chào bạn XYZ!
+test@gmail.com|Hello Tester!
