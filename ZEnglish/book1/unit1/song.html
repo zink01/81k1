@@ -11,7 +11,7 @@
 <body>
   <h2>🎶 Twinkle Twinkle Little Star</h2>
   <audio id="audio" controls>
-    <source src="https://raw.githubusercontent.com/yourusername/yourrepo/main/twinkle.mp3" type="audio/mp3">
+    <source src="https://raw.githubusercontent.com/zink01/81k1/refs/heads/main/ZEnglish/book1/unit1/song.mp3" type="audio/mp3">
     Your browser does not support the audio element.
   </audio>
   <div id="lyrics">Loading lyrics...</div>
@@ -21,7 +21,7 @@
     const lyricsDiv = document.getElementById("lyrics");
     let lyrics = [];
 
-    fetch("https://raw.githubusercontent.com/yourusername/yourrepo/main/lyrics.json")
+    fetch("https://raw.githubusercontent.com/zink01/81k1/refs/heads/main/ZEnglish/book1/unit1/song.json")
       .then(res => res.json())
       .then(data => {
         lyrics = data;
