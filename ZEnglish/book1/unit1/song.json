@@ -1,11 +1,21 @@
 {
-  "title": "Twinkle Twinkle Little Star",
+  "title": "The Classroom Son",
   "audio" : "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/song.mp3" ,
 "background" : "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/song.png",
   "lyrics": [
-    { "time": 0.0, "text": "Twinkle, twinkle, little star," },
-    { "time": 3.0, "text": "How I wonder what you are!" },
-    { "time": 6.0, "text": "Up above the world so high," },
-    { "time": 9.0, "text": "Like a diamond in the sky." }
+    Good morning, class.
+Good morning to you!
+How are you?
+I’m fi ne, thank you.
+What is it? It’s an eraser.
+What is it? It’s a ruler.
+What is it? It’s a pencil.
+What is it? It’s a crayon
+Now pick up your pen
+And open your book.
+Say the words 
+And write with me. 
+Let’s start now. 1, 2, 3!
+CHORUS.
   ]
 }
