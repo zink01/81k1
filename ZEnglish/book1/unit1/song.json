@@ -3,19 +3,19 @@
   "audio" : "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/song.mp3" ,
 "background" : " ",
   "lyrics": [
-    "Good morning, class.",
-"Good morning to you!",
-"How are you?",
-"I’m fine, thank you.",
-"What is it? It’s an eraser.",
-"What is it? It’s a ruler.",
-"What is it? It’s a pencil.",
-"What is it? It’s a crayon",
-"Now pick up your pen",
-"And open your book.",
-"Say the words ",
-"And write with me. ",
-"Let’s start now. 1, 2, 3!",
-"CHORUS."
+  { "time": 3.0, "text": "Good morning, class."},
+ { "time": 6.0, "text":  "Good morning to you!"},
+{ "time": 8.0, "text":  "How are you?"},
+{ "time": 10.0, "text": "I’m fine, thank you."},
+{ "time": 12.0, "text": "What is it? It’s an eraser."},
+{ "time": 14.0, "text": "What is it? It’s a ruler."},
+{ "time": 16.0, "text": "What is it? It’s a pencil."},
+{ "time": 18.0, "text": "What is it? It’s a crayon"},
+ { "time": 20.0, "text":  "Now pick up your pen"},
+{ "time": 22.0, "text": "And open your book."},
+{ "time": 25.0, "text": "Say the words "},
+{ "time": 28.0, "text": "And write with me. "},
+{ "time": 30.0, "text": "Let’s start now. 1, 2, 3!"},
+{ "time": 33.0, "text": "CHORUS."}
   ]
 }
