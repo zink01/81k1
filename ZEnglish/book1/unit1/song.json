@@ -1,7 +1,7 @@
 {
   "title": "The Classroom Son",
   "audio" : "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/song.mp3" ,
-"background" : " ",
+"background" : "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/bg.mp4 ",
   "lyrics": [
   { "time": 3.0, "text": "Good morning, class."},
  { "time": 6.0, "text":  "Good morning to you!"},
