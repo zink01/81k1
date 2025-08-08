@@ -1,17 +1,17 @@
 {
   "title": "Nghe câu hỏi",
-  "intro": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//intro.mp3",
-  "wow": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//wow.mp3",
-  "box1": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//box_1.png",
-  "box2": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//box_2.png",
+  "intro": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/intro.mp3",
+  "wow": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/wow.mp3",
+  "box1": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/box_1.png",
+  "box2": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/box_2.png",
   "images": [
-    { "id": "1", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//img1.png", "sound": "audio/sound1.mp3" },
-    { "id": "2", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//img2.png", "sound": "audio/sound2.mp3" },
-    { "id": "3", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//img3.png", "sound": "audio/sound3.mp3" },
-    { "id": "4", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//img4.png", "sound": "audio/sound4.mp3" },
-    { "id": "5", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//img5.png", "sound": "audio/sound5.mp3" },
-    { "id": "6", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//img6.png", "sound": "audio/sound6.mp3" },
-    { "id": "7", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//img7.png", "sound": "audio/sound7.mp3" },
-    { "id": "8", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting//img8.png", "sound": "audio/sound8.mp3" }
+    { "id": "1", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/img1.png", "sound": "audio/sound1.mp3" },
+    { "id": "2", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/img2.png", "sound": "audio/sound2.mp3" },
+    { "id": "3", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/img3.png", "sound": "audio/sound3.mp3" },
+    { "id": "4", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/img4.png", "sound": "audio/sound4.mp3" },
+    { "id": "5", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/img5.png", "sound": "audio/sound5.mp3" },
+    { "id": "6", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/img6.png", "sound": "audio/sound6.mp3" },
+    { "id": "7", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/img7.png", "sound": "audio/sound7.mp3" },
+    { "id": "8", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/sorting/img8.png", "sound": "audio/sound8.mp3" }
   ]
 }
