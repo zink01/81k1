@@ -19,8 +19,7 @@
   "sounds": [
     {"id": "s1", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/sound1.mp3"},
     {"id": "s2", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/sound2.mp3"},
-    {"id": "s3", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/
-sound3.mp3"},
+    {"id": "s3", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/sound3.mp3"},
     {"id": "s4", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/sound4.mp3"},
     {"id": "s5", "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/sound5.mp3"}
   ],
