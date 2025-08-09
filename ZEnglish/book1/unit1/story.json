@@ -1,50 +1,69 @@
-{
-  "assets": {
-"title": " welcome to class",
-    "background": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/bggg.jpg",
-    "avatarA": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/avatarA.png",
-"avatarA_idle": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/avatarA_idle.png",
-    "avatarB": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/avatarB.png",
-"avatarB_idle": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/avatarB_idle.png",
-    "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/audio.mp3"
-  },
-  "dialog": [
+{ "basepath":"https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/story/",
+  "title": "Classroom Color",
+  "audio": "fullsound.mp3",
+  "background": "",
+  "segments": [
     {
-      "start": 0,
-      "end": 9,
-      "speaker": "B",
-      "text": "Welcome unit, welcome to class activity 2. Listen. Ask and answer.",
-      "type": "intro"
+      "id": "seg1",
+      "startTime": 1.70,
+      "endTime": 7.7,
+      "img": "img1.png",
+      "thumb": "thumb1.png",
+      "st_thumb": "st_thumb1.png"
     },
     {
-      "start": 9,
-      "end": 12.35,
-      "speaker": "A",
-      "text": "Hello! What's your name?"
+      "id": "seg2",
+      "startTime": 7.7,
+      "endTime": 16.21,
+      "img": "img2.png",
+      "thumb": "thumb2.png",
+      "st_thumb": "st_thumb2.png"
     },
     {
-      "start": 12.35,
-      "end": 15.76,
-      "speaker": "B",
-      "text": "I'm Anna. What's your name?"
+      "id": "seg3",
+      "startTime": 16.21,
+      "endTime": 21.75,
+      "img": "img3.png",
+      "thumb": "thumb3.png",
+      "st_thumb": "st_thumb3.png"
     },
     {
-      "start": 15.76,
-      "end": 17.53,
-      "speaker": "A",
-      "text": "I'm Sam"
+      "id": "seg4",
+      "startTime": 21.75,
+      "endTime": 29.9,
+      "img": "img4.png",
+      "thumb": "thumb4.png",
+      "st_thumb": "st_thumb4.png"
     },
     {
-      "start": 17.53,
-      "end": 18.82,
-      "speaker": "B",
-      "text": "Goodbye."
+      "id": "seg5",
+      "startTime": 29.9,
+      "endTime": 33.99,
+      "img": "img5.png",
+      "thumb": "thumb5.png",
+      "st_thumb": "st_thumb5.png"
     },
     {
-      "start": 18.82,
-      "end": 21.99,
-      "speaker": "A",
-      "text": "Goobye, Sam."
+      "id": "seg6",
+      "startTime": 33.99,
+      "endTime": 40,
+      "img": "img6.png",
+      "thumb": "thumb6.png",
+      "st_thumb": "st_thumb6.png"
     }
+  ],
+  "lyrics": [
+    {"time": 0, "text": "Classroom Color"},
+    {"time": 1.72, "text": "Look, Jeremy. What's this?"},
+    {"time": 5.82, "text": "It's a marker."},
+    {"time": 7.7, "text": "Good! What color is it?"},
+    {"time": 12.41, "text": "It's red."},
+    {"time": 13.32, "text": "Yes, Jeremy. It's red."},
+    {"time": 16.21, "text": "Look. What's this?"},
+    {"time": 20.18, "text": "It's an eraser."},
+    {"time": 21.75, "text": "Yes, good! What color is it?"},
+    {"time": 27.21, "text": "It's red!"},
+    {"time": 29.9, "text": "Red? No, Jeremy. It's green."},
+    {"time": 33.99, "text": "No! Look. It's red."}
   ]
 }
