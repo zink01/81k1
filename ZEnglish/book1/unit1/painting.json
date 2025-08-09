@@ -2,10 +2,10 @@
   "title": "painting",
   "cardback": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/cardback.png",
   "imgs": [
-    {"id": "i1", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img1.png", "color": " https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color1.png"},
-    {"id": "i2", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img2.png", "color": " https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color2.png"},
-    {"id": "i3", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img3.png", "color": " https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color3.png"},
-    {"id": "i4", "img": " https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img4.png", "color": "  https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color4.png"},
+    {"id": "i1", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img1.png", "color": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color1.png"},
+    {"id": "i2", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img2.png", "color": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color2.png"},
+    {"id": "i3", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img3.png", "color": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color3.png"},
+    {"id": "i4", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img4.png", "color": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color4.png"},
     {"id": "i5", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/img5.png", "color": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/painting/color5.png"}
   ],
   "pots": [
