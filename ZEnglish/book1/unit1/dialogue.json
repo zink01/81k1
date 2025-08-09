@@ -19,19 +19,19 @@
     {
       "start": 9,
       "end": 12.35,
-      "speaker": "A",
+      "speaker": "B",
       "text": "Hello! What's your name?"
     },
     {
       "start": 12.35,
       "end": 15.76,
-      "speaker": "B",
+      "speaker": "A",
       "text": "I'm Anna. What's your name?"
     },
     {
       "start": 15.76,
       "end": 17.53,
-      "speaker": "A",
+      "speaker": "B",
       "text": "I'm Sam"
     },
     {
