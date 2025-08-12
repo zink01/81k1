@@ -1,0 +1,75 @@
+{
+  "title": "My Body Song ",
+  "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit2/song.mp3",
+"background" : "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/hat.gif",
+  "lyrics": [
+    {
+      "time": 18.8,
+      "text": "Doo Doo doo...."
+    },
+    {
+      "time": 28.21,
+      "text": "Good morning, class!"
+    },
+    {
+      "time": 31.05,
+      "text": "Good morning to you!"
+    },
+    {
+      "time": 33.14,
+      "text": "I'm happy to see you."
+    },
+    {
+      "time": 36.31,
+      "text": "We're happy to see you, too!"
+    },
+    {
+      "time": 38.39,
+      "text": "My name is Parker. I have a marker."
+    },
+    {
+      "time": 44.02,
+      "text": "My name is Sue. My pencil is blue!"
+    },
+    {
+      "time": 49.37,
+      "text": "My name is Em. This is my pen."
+    },
+    {
+      "time": 54.53,
+      "text": "My name is Zack. I have a backpack!"
+    },
+    {
+      "time": 59.81,
+      "text": "Please take out your pencil case."
+    },
+    {
+      "time": 63.17,
+      "text": "Now draw a funny face."
+    },
+    {
+      "time": 65.64,
+      "text": "Say the words with me."
+    },
+    {
+      "time": 67.89,
+      "text": "Let's start now. 1 -2 -3."
+    },
+    {
+      "time": 72.04,
+      "text": "Good morning class!"
+    },
+    {
+      "time": 76.01,
+      "text": "Good morning to you!"
+    },
+    {
+      "time": 78.54,
+      "text": "I'm happy to see you."
+    },
+    {
+      "time": 81.73,
+      "text": "We're happy to see you, too."
+    }
+  ]
+}
