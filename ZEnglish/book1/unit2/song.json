@@ -2,110 +2,54 @@
   "title": "My Body Song ",
   "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit2/song.mp3",
 "background" : "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/hat.gif",
-  "lyrics": [
+   "lyrics": [
     {
-      "time": 14.66,
-      "text": "with my ears I hear."
+      "time": 16.98,
+      "text": "My family, my family !"
     },
     {
-      "time": 21.47,
-      "text": "with my eyes I see."
+      "time": 23.12,
+      "text": "I love my family."
     },
     {
-      "time": 23.81,
-      "text": "with my mouth I sing."
+      "time": 25.42,
+      "text": "See them in this picture."
     },
     {
-      "time": 26.13,
-      "text": "sing along with me."
+      "time": 28.38,
+      "text": "They mean so much to me."
     },
     {
-      "time": 28.56,
-      "text": "I have ten fingers."
+      "time": 30.76,
+      "text": "My father, my mother!"
     },
     {
-      "time": 31.17,
-      "text": "I have ten toes."
+      "time": 33.28,
+      "text": "My sister, my brother!"
     },
     {
-      "time": 33.31,
-      "text": "two arms and two legs."
+      "time": 36.04,
+      "text": "We have so much fun."
     },
     {
-      "time": 35.62,
-      "text": "but just one nose!"
+      "time": 38.66,
+      "text": "They're number one."
     },
     {
-      "time": 38.41,
-      "text": "I wave my hands in the air."
+      "time": 47.29,
+      "text": "My family, my family."
     },
     {
-      "time": 45.07,
-      "text": "I run my fingers through my hair."
+      "time": 47.29,
+      "text": "I love my family."
     },
     {
-      "time": 47.33,
-      "text": "I make a silly face and then."
+      "time": 51.49,
+      "text": "I love them and they love me."
     },
     {
-      "time": 50.61,
-      "text": "I sing my body song, my body song,"
-    },
-    {
-      "time": 56.49,
-      "text": "I sing my body song again."
-    },
-    {
-      "time": 66.53,
-      "text": "with my ears I hear."
-    },
-    {
-      "time": 68.63,
-      "text": "with my eyes I see."
-    },
-    {
-      "time": 70.93,
-      "text": "with my mouth I sing."
-    },
-    {
-      "time": 73.24,
-      "text": "sing along with me."
-    },
-    {
-      "time": 75.58,
-      "text": "I have ten fingers."
-    },
-    {
-      "time": 78.1,
-      "text": "I have ten toes."
-    },
-    {
-      "time": 80.49,
-      "text": "two arms and two legs."
-    },
-    {
-      "time": 82.73,
-      "text": "but just one nose."
-    },
-    {
-      "time": 85.21,
-      "text": "I wave my hands in the air."
-    },
-    {
-      "time": 92.08,
-      "text": "I run my fingers through my hair."
-    },
-    {
-      "time": 94.54,
-      "text": "I make a silly face and then"
-    },
-    {
-      "time": 97.75,
-      "text": "I sing my body song, my body song,"
-    },
-    {
-      "time": 103.6,
-      "text": "I sing my body again."
+      "time": 54.68,
+      "text": "That's why we're family!"
     }
   ]
 }
