@@ -17,9 +17,9 @@
   "intro": "intro.mp3",
   "wow": "wow.mp3",
   "matches": [
-    {"ball": "ball1", "img": "img1", "edittext": "edittext1", "ballText": "F", "editPattern": "@amily"},
-    {"ball": "ball2", "img": "img2", "edittext": "edittext2", "ballText": "P", "editPattern": "@arents"},
-    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "S", "editPattern": "@ister"},
-    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "B", "editPattern": "@rother"}
+    {"ball": "ball1", "img": "img1", "edittext": "edittext1", "ballText": "P", "editPattern": "@urple"},
+    {"ball": "ball2", "img": "img2", "edittext": "edittext2", "ballText": "O", "editPattern": "@range"},
+    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "W", "editPattern": "@hite"},
+    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "B", "editPattern": "@lack"}
   ]
 }
