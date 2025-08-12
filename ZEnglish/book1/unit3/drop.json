@@ -17,9 +17,9 @@
   "intro": "intro.mp3",
   "wow": "wow.mp3",
   "matches": [
-    {"ball": "ball1", "img": "img1", "edittext": "edittext1", "ballText": "P", "editPattern": "@urple"},
-    {"ball": "ball2", "img": "img2", "edittext": "edittext2", "ballText": "O", "editPattern": "@range"},
-    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "W", "editPattern": "@hite"},
-    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "B", "editPattern": "@lack"}
+    {"ball": "ball1", "img": "img1", "edittext": "edittext1", "ballText": "O", "editPattern": "@range"},
+    {"ball": "ball2", "img": "img2", "edittext": "edittext2", "ballText": "W", "editPattern": "@hite"},
+    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "B", "editPattern": "@lack"},
+    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "P", "editPattern": "@urple"}
   ]
 }
