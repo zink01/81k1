@@ -1,6 +1,6 @@
 {
   "title": "Game Drag Drohhhhhp",
-  "basePath": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit2/drag_drop/",
+  "basePath": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit5/drag_drop/",
   "cloud": "cloud.png",
   "ball1": "ball1.png",
   "ball2": "ball2.png",
@@ -17,9 +17,9 @@
   "intro": "intro.mp3",
   "wow": "wow.mp3",
   "matches": [
-    {"ball": "ball1", "img": "img1", "edittext": "edittext1", "ballText": "F", "editPattern": "@amily"},
-    {"ball": "ball2", "img": "img2", "edittext": "edittext2", "ballText": "P", "editPattern": "@arents"},
-    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "S", "editPattern": "@ister"},
-    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "B", "editPattern": "@rother"}
+    {"ball": "ball1", "img": "img1", "edittext": "edittext1", "ballText": "R", "editPattern": "@eading"},
+    {"ball": "ball2", "img": "img2", "edittext": "edittext2", "ballText": "D", "editPattern": "@rawing"},
+    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "W", "editPattern": "@ashing"},
+    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "E", "editPattern": "@ating"}
   ]
 }
