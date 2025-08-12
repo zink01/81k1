@@ -1,111 +1,71 @@
 {
-  "title": "My Body Song ",
+  "title": "My Favorite Clothes",
   "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit2/song.mp3",
 "background" : "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/hat.gif",
-  "lyrics": [
+   "lyrics": [
     {
-      "time": 14.66,
-      "text": "with my ears I hear."
+      "time": 18.26,
+      "text": "These are clothes"
     },
     {
-      "time": 21.47,
-      "text": "with my eyes I see."
+      "time": 21.72,
+      "text": "shirts, pants, shoes."
     },
     {
-      "time": 23.81,
-      "text": "with my mouth I sing."
+      "time": 23.67,
+      "text": "these are clothes"
     },
     {
-      "time": 26.13,
-      "text": "sing along with me."
+      "time": 26.12,
+      "text": "that we choose"
     },
     {
-      "time": 28.56,
-      "text": "I have ten fingers."
+      "time": 27.63,
+      "text": "this is the skirt"
     },
     {
-      "time": 31.17,
-      "text": "I have ten toes."
+      "time": 30.19,
+      "text": "I'll wear today"
     },
     {
-      "time": 33.31,
-      "text": "two arms and two legs."
+      "time": 31.92,
+      "text": "this is the shirt"
     },
     {
-      "time": 35.62,
-      "text": "but just one nose!"
+      "time": 34.69,
+      "text": "I'll wear to play"
     },
     {
-      "time": 38.41,
-      "text": "I wave my hands in the air."
+      "time": 46.12,
+      "text": "these are the pants"
     },
     {
-      "time": 45.07,
-      "text": "I run my fingers through my hair."
+      "time": 47.59,
+      "text": "I'll wear to school"
     },
     {
-      "time": 47.33,
-      "text": "I make a silly face and then."
+      "time": 49.38,
+      "text": "these are the pants"
     },
     {
-      "time": 50.61,
-      "text": "I sing my body song, my body song,"
+      "time": 51.92,
+      "text": "that look so cool"
     },
     {
-      "time": 56.49,
-      "text": "I sing my body song again."
+      "time": 53.78,
+      "text": "these are the shoes"
     },
     {
-      "time": 66.53,
-      "text": "with my ears I hear."
+      "time": 56.32,
+      "text": "I like the best"
     },
     {
-      "time": 68.63,
-      "text": "with my eyes I see."
+      "time": 58.12,
+      "text": "these are the shoes"
     },
     {
-      "time": 70.93,
-      "text": "with my mouth I sing."
-    },
-    {
-      "time": 73.24,
-      "text": "sing along with me."
-    },
-    {
-      "time": 75.58,
-      "text": "I have ten fingers."
-    },
-    {
-      "time": 78.1,
-      "text": "I have ten toes."
-    },
-    {
-      "time": 80.49,
-      "text": "two arms and two legs."
-    },
-    {
-      "time": 82.73,
-      "text": "but just one nose."
-    },
-    {
-      "time": 85.21,
-      "text": "I wave my hands in the air."
-    },
-    {
-      "time": 92.08,
-      "text": "I run my fingers through my hair."
-    },
-    {
-      "time": 94.54,
-      "text": "I make a silly face and then"
-    },
-    {
-      "time": 97.75,
-      "text": "I sing my body song, my body song,"
-    },
-    {
-      "time": 103.6,
-      "text": "I sing my body again."
+      "time": 60.74,
+      "text": "that'll pass the test"
     }
   ]
 }
