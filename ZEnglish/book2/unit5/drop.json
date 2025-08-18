@@ -19,7 +19,7 @@
   "matches": [
     {"ball": "ball1", "img": "img1", "edittext": "edittext1", "ballText": "H", "editPattern": "@airdresser"},
     {"ball": "ball2", "img": "img2", "edittext": "edittext2", "ballText": "M", "editPattern": "@achenic"},
-    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "W", "editPattern": "@riter"},
-    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "R", "editPattern": "@ider"}
+    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "R", "editPattern": "@ider"},
+    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "W", "editPattern": "@riter"}
   ]
 }
