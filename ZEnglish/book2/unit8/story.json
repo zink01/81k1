@@ -1,0 +1,69 @@
+{ "basepath":"https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit8/story/",
+  "title": "Classroom Color",
+  "audio": "fullsound.mp3",
+  "background": "",
+  "segments": [
+    {
+      "id": "seg1",
+      "startTime": 1.70,
+      "endTime": 7.7,
+      "img": "img1.png",
+      "thumb": "thumb1.png",
+      "st_thumb": "st_thumb1.png"
+    },
+    {
+      "id": "seg2",
+      "startTime": 7.7,
+      "endTime": 16.21,
+      "img": "img2.png",
+      "thumb": "thumb2.png",
+      "st_thumb": "st_thumb2.png"
+    },
+    {
+      "id": "seg3",
+      "startTime": 16.21,
+      "endTime": 21.75,
+      "img": "img3.png",
+      "thumb": "thumb3.png",
+      "st_thumb": "st_thumb3.png"
+    },
+    {
+      "id": "seg4",
+      "startTime": 21.75,
+      "endTime": 29.9,
+      "img": "img4.png",
+      "thumb": "thumb4.png",
+      "st_thumb": "st_thumb4.png"
+    },
+    {
+      "id": "seg5",
+      "startTime": 29.9,
+      "endTime": 33.99,
+      "img": "img5.png",
+      "thumb": "thumb5.png",
+      "st_thumb": "st_thumb5.png"
+    },
+    {
+      "id": "seg6",
+      "startTime": 33.99,
+      "endTime": 40,
+      "img": "img6.png",
+      "thumb": "thumb6.png",
+      "st_thumb": "st_thumb6.png"
+    }
+  ],
+  "lyrics": [
+    {"time": 0, "text": "Classroom Color"},
+    {"time": 1.72, "text": "Look, Jeremy. What's this?"},
+    {"time": 5.82, "text": "It's a marker."},
+    {"time": 7.7, "text": "Good! What color is it?"},
+    {"time": 12.41, "text": "It's red."},
+    {"time": 13.32, "text": "Yes, Jeremy. It's red."},
+    {"time": 16.21, "text": "Look. What's this?"},
+    {"time": 20.18, "text": "It's an eraser."},
+    {"time": 21.75, "text": "Yes, good! What color is it?"},
+    {"time": 27.21, "text": "It's red!"},
+    {"time": 29.9, "text": "Red? No, Jeremy. It's green."},
+    {"time": 33.99, "text": "No! Look. It's red."}
+  ]
+}
