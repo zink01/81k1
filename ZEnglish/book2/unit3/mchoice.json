@@ -1,0 +1,21 @@
+{
+  "title": "Game Multiple Choice",
+  "cardback": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/mchoice/cardback.png",
+  "right": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/mchoice/right.png",
+  "wrong": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/mchoice/wrong.png",
+  "wow": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/mchoice/wow.mp3",
+  "images": [
+    {"id": 1, "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/img1.png", "correctSound": 1},
+    {"id": 2, "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/img2.png", "correctSound": 2},
+    {"id": 3, "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/img3.png", "correctSound": 3},
+    {"id": 4, "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/img4.png", "correctSound": 4},
+    {"id": 5, "src": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/img5.png", "correctSound": 5}
+  ],
+  "sounds": [
+    "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/sound1.mp3",
+    "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/sound2.mp3",
+    "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/sound3.mp3",
+    "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/sound4.mp3",
+    "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit3/mchoice/sound5.mp3"
+  ]
+}
