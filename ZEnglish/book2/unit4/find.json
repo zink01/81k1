@@ -1,0 +1,12 @@
+{ "basepath": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/find/",
+  "title": "Game Tìm Đồ Vật",
+  "intro": "description.mp3",
+  "wow": "wow.mp3",
+  "cover": "cover.png",
+  "objects": [
+    { "id": "obj1", "src": "obj1.png" },
+    { "id": "obj2", "src": "obj2.png" },
+    { "id": "obj3", "src": "obj3.png" },
+    { "id": "obj4", "src": "obj4.png" }
+  ]
+}

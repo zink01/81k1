@@ -1,0 +1,13 @@
+{
+  "title": "Listen and Match",
+  "intro": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/matching/intro.mp3",
+  "wow": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/matching/wow.mp3",
+  "cardback": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit1/matching/cardback.png",
+  "pairs": [
+    { "id": "1", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/img1.png", "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/sound1.mp3" },
+    { "id": "2", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/img2.png", "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/sound2.mp3" },
+    { "id": "3", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/img3.png", "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/sound3.mp3" },
+    { "id": "4", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/img4.png", "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/sound4.mp3" },
+    { "id": "5", "img": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/img5.png", "audio": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit4/matching/sound5.mp3" }
+  ]
+}
