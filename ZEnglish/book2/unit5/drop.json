@@ -1,0 +1,25 @@
+{
+  "title": "Game Drop",
+  "basePath": "https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit5/drop/",
+  "cloud": "cloud.png",
+  "ball1": "ball1.png",
+  "ball2": "ball2.png",
+  "ball3": "ball3.png",
+  "ball4": "ball4.png",
+  "img1": "img1.png",
+  "img2": "img2.png",
+  "img3": "img3.png",
+  "img4": "img4.png",
+  "sound1": "sound1.mp3",
+  "sound2": "sound2.mp3",
+  "sound3": "sound3.mp3",
+  "sound4": "sound4.mp3",
+  "intro": "intro.mp3",
+  "wow": "wow.mp3",
+  "matches": [
+    {"ball": "ball1", "img": "img1", "edittext": "edittext1", "ballText": "F", "editPattern": "@amily"},
+    {"ball": "ball2", "img": "img2", "edittext": "edittext2", "ballText": "P", "editPattern": "@arents"},
+    {"ball": "ball3", "img": "img3", "edittext": "edittext3", "ballText": "S", "editPattern": "@ister"},
+    {"ball": "ball4", "img": "img4", "edittext": "edittext4", "ballText": "B", "editPattern": "@rother"}
+  ]
+}
