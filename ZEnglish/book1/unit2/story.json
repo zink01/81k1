@@ -5,48 +5,48 @@
   "segments": [
     {
       "id": "seg1",
-      "startTime": 1.70,
-      "endTime": 7.7,
+      "startTime": 2.38,
+      "endTime": 10.8,
       "img": "img1.png",
       "thumb": "thumb1.png",
       "st_thumb": "st_thumb1.png"
     },
     {
       "id": "seg2",
-      "startTime": 7.7,
-      "endTime": 16.21,
+      "startTime": 10.8,
+      "endTime": 16.85,
       "img": "img2.png",
       "thumb": "thumb2.png",
       "st_thumb": "st_thumb2.png"
     },
     {
       "id": "seg3",
-      "startTime": 16.21,
-      "endTime": 21.75,
+      "startTime": 16.85,
+      "endTime": 26.49,
       "img": "img3.png",
       "thumb": "thumb3.png",
       "st_thumb": "st_thumb3.png"
     },
     {
       "id": "seg4",
-      "startTime": 21.75,
-      "endTime": 29.9,
+      "startTime": 26.49,
+      "endTime": 34.11,
       "img": "img4.png",
       "thumb": "thumb4.png",
       "st_thumb": "st_thumb4.png"
     },
     {
       "id": "seg5",
-      "startTime": 29.9,
-      "endTime": 33.99,
+      "startTime": 34.11,
+      "endTime": 40.02,
       "img": "img5.png",
       "thumb": "thumb5.png",
       "st_thumb": "st_thumb5.png"
     },
     {
       "id": "seg6",
-      "startTime": 33.99,
-      "endTime": 40,
+      "startTime": 40.02,
+      "endTime": 45,
       "img": "img6.png",
       "thumb": "thumb6.png",
       "st_thumb": "st_thumb6.png"
