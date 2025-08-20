@@ -1,5 +1,5 @@
-{ "basepath":"https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book2/unit9/story/",
-  "title": "Classroom Color",
+{ "basepath":"https://raw.githubusercontent.com/zink01/81k1/main/ZEnglish/book1/unit2/story/",
+  "title": " A Big Family",
   "audio": "fullsound.mp3",
   "background": "",
   "segments": [
@@ -53,17 +53,53 @@
     }
   ],
   "lyrics": [
-    {"time": 0, "text": "Classroom Color"},
-    {"time": 1.72, "text": "Look, Jeremy. What's this?"},
-    {"time": 5.82, "text": "It's a marker."},
-    {"time": 7.7, "text": "Good! What color is it?"},
-    {"time": 12.41, "text": "It's red."},
-    {"time": 13.32, "text": "Yes, Jeremy. It's red."},
-    {"time": 16.21, "text": "Look. What's this?"},
-    {"time": 20.18, "text": "It's an eraser."},
-    {"time": 21.75, "text": "Yes, good! What color is it?"},
-    {"time": 27.21, "text": "It's red!"},
-    {"time": 29.9, "text": "Red? No, Jeremy. It's green."},
-    {"time": 33.99, "text": "No! Look. It's red."}
+    {
+      "time": 2.38,
+      "text": "Is this your photo album, Fran?"
+    },
+    {
+      "time": 6.46,
+      "text": "Yes! These are pictures of my family."
+    },
+    {
+      "time": 10.8,
+      "text": "Who are they?"
+    },
+    {
+      "time": 13.96,
+      "text": "That's my father and mother."
+    },
+    {
+      "time": 16.85,
+      "text": "How many brothers do you have?"
+    },
+    {
+      "time": 20.46,
+      "text": "I have three brothers -- Stan, Dan, and Van."
+    },
+    {
+      "time": 26.49,
+      "text": "And who are they?"
+    },
+    {
+      "time": 30,
+      "text": "They're my sisters -- Jan and Nan."
+    },
+    {
+      "time": 34.11,
+      "text": "Who's she?"
+    },
+    {
+      "time": 37.47,
+      "text": "She's my baby sister."
+    },
+    {
+      "time": 40.02,
+      "text": "What's her name?"
+    },
+    {
+      "time": 42.93,
+      "text": "Ann."
+    }
   ]
 }
